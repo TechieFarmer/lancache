@@ -15,3 +15,5 @@ ca-prof.np.community.playstation.net
 asm.np.community.playstation.net
 ivt.np.community.playstation.net
 *.community.playstation.net
+uds-edge.np.community.playstation.net
+*.playstation.net
